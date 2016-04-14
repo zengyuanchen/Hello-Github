@@ -6,8 +6,8 @@ test branch readme-edit
 
 By Noah! 2016.4.14
 
-By NN!
+`By NN!`
 
-By zengyuanchen!
+>By zengyuanchen!
 
 ####Edit by featureC!####
