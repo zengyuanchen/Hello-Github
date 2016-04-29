@@ -1,2 +1,6 @@
 1.This is a test file.
 				by noahzy 2016.4.14 15:14
+
+
+
+3.合并前test
